@@ -1,0 +1,5 @@
+rootProject.name='TenColl'
+include ':app'
+include ':servicebestpractice'
+include ':bestuidemo'
+include ':coolweather'
